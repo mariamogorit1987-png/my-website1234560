@@ -1,0 +1,13 @@
+body {background-color: 00FF00;
+font-family: sans-serif;}
+
+h2 {color: ФФ00ФФ; text-align: center}
+
+form {text-align: center;
+line-height: 2;
+color: white}
+
+input {background-color: #1E90FF; 
+padding: 5px 10px; border-radius: 5px; color: white}
+
+label {color: #00008B}
